@@ -5,7 +5,7 @@ import Center from "../components/Center";
 
 const Home: NextPage = () => {
     return (
-        <div className="bg-white h-screen overflow-hidden">
+        <div className="bg-black h-screen overflow-hidden">
             <Head>
                 <title>Spotify</title>
                 <meta name="description" content="Spotify by P.N fabulous" />
