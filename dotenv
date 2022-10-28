@@ -1,0 +1,4 @@
+NEXTAUTH_URL=http://localhost:3000
+SPOTIFY_CLIENT_ID=https://developer.spotify.com/dashboard/applications
+SPOTIFY_CLIENT_SECRET=https://developer.spotify.com/dashboard/applications
+NEXTAUTH_SECRET=https://next-auth.js.org/configuration/options
